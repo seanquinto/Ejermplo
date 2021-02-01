@@ -2,4 +2,4 @@
 
 Hola,
 
-Esto es un repositorio de ejemplo para aprender aa usar github
+Esto es un repositorio de ejemplo para aprender a usar github
